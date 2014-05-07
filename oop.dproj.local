@@ -2,12 +2,16 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2014/04/29 19:11:32.000.945,=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2014/04/29 19:13:27.000.282,C:\Users\Delphi\Desktop\projetosDelphi\oop\Princ.dfm=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2014/04/29 19:13:27.000.282,C:\Users\Delphi\Desktop\projetosDelphi\oop\Princ.pas=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2014/04/29 19:13:30.000.438,C:\Users\Delphi\Desktop\projetosDelphi\oop\oop.dproj=C:\Users\Delphi\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2014/04/29 19:13:27.000.282,C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Delphi\Desktop\projetosDelphi\oop\Princ.pas</Transaction>
+    <Transaction>2014/04/29 19:13:27.000.282,C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Delphi\Desktop\projetosDelphi\oop\Princ.dfm</Transaction>
+    <Transaction>2014/04/29 19:13:30.000.438,C:\Users\Delphi\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Delphi\Desktop\projetosDelphi\oop\oop.dproj</Transaction>
     <Transaction>2014/04/29 19:40:43.000.857,=C:\Users\Delphi\Desktop\projetosDelphi\oop\unClassBox.pas</Transaction>
     <Transaction>2014/04/29 19:41:30.000.490,C:\Users\Delphi\Desktop\projetosDelphi\oop\unClassBox.pas=</Transaction>
     <Transaction>2014/04/29 19:41:57.000.175,=C:\Users\Delphi\Desktop\classes\box\unClassBox.pas</Transaction>
-    <Transaction>2014/05/06 19:15:19.422,=C:\Users\Delphi\Desktop\classes\box\unClassShadowBox.pas</Transaction>
+    <Transaction>2014/05/06 19:15:19.000.422,=C:\Users\Delphi\Desktop\classes\box\unClassShadowBox.pas</Transaction>
+    <Transaction>2014/05/07 16:15:27.906,C:\Users\Delphi\Desktop\classes\box\unClassBox.pas=</Transaction>
+    <Transaction>2014/05/07 16:15:30.387,C:\Users\Delphi\Desktop\classes\box\unClassShadowBox.pas=</Transaction>
+    <Transaction>2014/05/07 16:15:34.237,=C:\Users\Delphi\Desktop\projetosDelphi\oop\unClassBox.pas</Transaction>
+    <Transaction>2014/05/07 16:15:34.241,=C:\Users\Delphi\Desktop\projetosDelphi\oop\unClassShadowBox.pas</Transaction>
   </Transactions>
 </BorlandProject>

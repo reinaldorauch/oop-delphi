@@ -86,8 +86,8 @@
             <Form>FormPrinc</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="..\..\classes\box\unClassBox.pas"/>
-        <DCCReference Include="..\..\classes\box\unClassShadowBox.pas"/>
+        <DCCReference Include="unClassBox.pas"/>
+        <DCCReference Include="unClassShadowBox.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
